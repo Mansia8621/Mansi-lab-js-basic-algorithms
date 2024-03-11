@@ -1,0 +1,2 @@
+= paper && secondPlayerChoice === rock;
+fou
